@@ -1,6 +1,6 @@
 import { defineConfig, devices } from '@playwright/test';
 
-export const baseURL = 'http://13.229.196.7:3000';
+export const baseURL = 'http://35.225.79.245:3000/';
 export default defineConfig({
   testDir: './e2e',
   fullyParallel: true,
