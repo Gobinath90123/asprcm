@@ -1,13 +1,16 @@
 import { defineConfig, devices } from '@playwright/test';
 
-export const baseURL = 'http://35.225.79.245:3000/';
+export const clientBaseURL = 'https://devrcmgenie.asprcmsolutions.com/client/';
+export const agentBaseURL = 'https://devrcmgenie.asprcmsolutions.com/';
+
 export default defineConfig({
   testDir: './e2e',
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 2 : 0,
   workers: process.env.CI ? 1 : 1,
-    reporter: [
+  timeout: 120000,
+  reporter: [
     ['line'],
     ['html'],
     ['junit', { outputFile: './report/results.xml' }],
@@ -17,9 +20,8 @@ export default defineConfig({
     }]
   ],
   use: {
-    baseURL: baseURL,
+    baseURL: agentBaseURL, // Use baseURL for Playwright's built-in support
   },
-
 
   projects: [
     {
