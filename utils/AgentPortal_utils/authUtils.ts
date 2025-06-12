@@ -1,5 +1,6 @@
 import { Page, expect } from '@playwright/test';
-import { logger } from '../logger';
+import logger from '../logger';
+
 
 export async function navigateToLoginPage(page: Page) {
   logger.info('Navigating to login page');
@@ -32,7 +33,8 @@ export async function approveSignInRequest(page: Page) {
 
 export async function verifyDashboard(page: Page) {
   logger.info('Verifying dashboard visibility');
-  await expect(page.getByText('Dashboard').first()).toBeVisible();
+  await page.waitForTimeout(2000);
+    await expect(page.getByText('Dashboard').first()).toBeVisible();
   logger.info('Dashboard verified successfully');
 }
 

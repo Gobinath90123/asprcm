@@ -1,6 +1,6 @@
 // organization-utils.ts
 import { Page, expect } from '@playwright/test';
-import { logger } from '../logger';
+import logger from '../logger';
 
 export async function navigateToOrganizations(page: Page) {
   logger.info('Navigating to Organizations section');
