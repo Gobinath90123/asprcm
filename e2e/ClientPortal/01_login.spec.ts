@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { verifyInitialPageElements, performLoginViaAuthenticatorApp,enterTOTPInTwoFactorAuthentication, verifyDashboardElements } from '../../utils/ClientPortal_utils/helper';
+import { verifyInitialPageElements, performLoginViaAuthenticatorApp,enterTOTPInTwoFactorAuthentication, verifyDashboardElements } from '../../utils/ClientPortal_utils/clientAuthUtils';
 import { clientBaseURL } from 'playwright.config';
 
 
