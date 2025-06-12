@@ -12,10 +12,10 @@ import {
 } from '../../utils/AgentPortal_utils/organization-utils';
 import { loginWithMicrosoftAccount } from 'utils/AgentPortal_utils/authUtils';
 
-test.describe('Organization Management', () => {
+test.describe.only('Organization Management', () => {
   const uniqueEmail = generateRandomEmail();
 
-  test('Add new organization and verify entry in table', async ({ page }) => {
+  test('Add, Edit, Delete new organization and verify entry in table', async ({ page }) => {
     await test.step('Login and navigate to organizations', async () => {
       await loginWithMicrosoftAccount(page);
       await navigateToOrganizations(page);
@@ -51,9 +51,8 @@ test.describe('Organization Management', () => {
       await saveAndCloseOrganization(page);
       await verifyOrganizationInTable(page, uniqueEmail);
     });
-  });
 
-  test('Edit new organization and verify entry in table', async ({ page }) => {
+
     await test.step('Edit organization details', async () => {
       await clickEditButtonForEmail(page, uniqueEmail);
       await fillBasicInfo(page, {
@@ -71,11 +70,10 @@ test.describe('Organization Management', () => {
     await test.step('Save changes', async () => {
       await saveAndCloseOrganization(page);
     });
-  });
+  
 
-  test('Delete new organization and verify entry in table', async ({ page }) => {
     await test.step('Delete organization', async () => {
       await deleteClientByEmail(page, uniqueEmail);
     });
   });
-});
+  });

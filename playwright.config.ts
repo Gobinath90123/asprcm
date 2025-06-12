@@ -16,7 +16,8 @@ export default defineConfig({
     ['junit', { outputFile: './report/results.xml' }],
     ['monocart-reporter', {
       name: "ASPRCM Automation Test Report",
-      outputFile: './report/monocart-report/index.html'
+      outputFile: './report/monocart-report/index.html',
+      detailedSteps: true
     }]
   ],
   use: {
