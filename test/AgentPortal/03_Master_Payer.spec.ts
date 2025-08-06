@@ -4,14 +4,12 @@ import { authConfig } from '../../utils/AgentPortal_utils/config';
 
 test.describe('Payor Tests', () => {
 
-
   test('Payor CRUD', async ({ page }) => {
 
  await navigateToLoginPage(page);
     await loginWithMicrosoft(page, authConfig.email, authConfig.password);
     await approveSignInRequest(page);
     await verifyTicketsModule(page);
-
 
 await page.getByLabel('Masters').getByText('Masters').click();
   await expect(page.getByText('Payer Add New Payer')).toBeVisible();
