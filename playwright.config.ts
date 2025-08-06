@@ -1,22 +1,23 @@
 import { defineConfig, devices } from '@playwright/test';
 
-export const clientBaseURL = 'https://devrcmgenie.asprcmsolutions.com/client/';
+export const clientBaseURL = 'https://devclientrcmgenie.asprcmsolutions.com/';
 export const agentBaseURL = 'https://devrcmgenie.asprcmsolutions.com/';
 
 export default defineConfig({
-  testDir: './e2e',
+  testDir: './test',
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 2 : 0,
   workers: process.env.CI ? 1 : 1,
-  timeout: 120000,
+  timeout: 180000,
   reporter: [
     ['line'],
     ['html'],
     ['junit', { outputFile: './report/results.xml' }],
     ['monocart-reporter', {
       name: "ASPRCM Automation Test Report",
-      outputFile: './report/monocart-report/index.html'
+      outputFile: './report/monocart-report/index.html',
+      detailedSteps: true
     }]
   ],
   use: {
