@@ -15,6 +15,7 @@ test.describe('Payor Tests', () => {
 
 await page.getByLabel('Masters').getByText('Masters').click();
   await expect(page.getByText('Payer Add New Payer')).toBeVisible();
+await page.waitForTimeout(4000);
   await page.getByRole('button', { name: 'Add New Payer' }).click();
   await page.getByRole('textbox', { name: 'Payer Name' }).click();
   await page.getByRole('textbox', { name: 'Payer Name' }).fill('Max life Insurance');
@@ -76,7 +77,38 @@ await page.getByLabel('Masters').getByText('Masters').click();
   await page.getByRole('button', { name: 'Save & Close' }).click();
   await expect(page.getByText('Created successfully.')).toBeVisible();
 
+//edit
+await expect(page.getByRole('row', { name: 'Cigna Health Insurance EDI A' }).getByRole('button').first()).toBeVisible();
+await page.getByRole('row', { name: 'Cigna Health Insurance EDI A' }).getByRole('button').first().click();
+await expect(page.getByRole('heading', { name: 'Basic Information' })).toBeVisible();
 
+await page.getByRole('textbox', { name: 'Payer Name' }).click();
+await page.getByRole('textbox', { name: 'Payer Name' }).press('ControlOrMeta+a');
+await page.getByRole('textbox', { name: 'Payer Name' }).fill('United Healthcare');
+await page.getByRole('textbox', { name: 'Payer Type' }).fill('Insurance Type');
+await page.getByRole('combobox', { name: 'EDI A' }).click();
+await page.getByRole('option', { name: 'EDI B' }).click();
+await page.locator('div').filter({ hasText: /^LocationAdd Row$/ }).getByRole('button').click();
+await page.getByRole('textbox', { name: 'Enter Payer Name' }).fill('United Healthcare');
+await page.getByRole('combobox', { name: 'Select State' }).click();
+await page.getByRole('option', { name: 'California' }).click();
+await page.getByRole('textbox', { name: 'Enter Website' }).fill('https://www.uhc.com');
+await page.getByRole('textbox', { name: 'Enter Contact Number' }).fill('(888) 123-4567');
+await page.getByRole('textbox', { name: 'Enter Process' }).fill('Eligibility');
+await page.getByRole('textbox', { name: 'Enter Contact Email' }).fill('providerhelp@uhc.com');
+
+
+await page.getByRole('button', { name: 'Save' }).click();
+await expect(page.getByRole('cell', { name: 'United Healthcare' })).toBeVisible();
+await page.getByRole('button', { name: 'Save & Close' }).click();
+
+//delete
+
+await expect(page.getByRole('row', { name: 'United Healthcare Insurance' }).getByLabel('Delete undefined')).toBeVisible();
+await page.getByRole('row', { name: 'United Healthcare Insurance' }).getByLabel('Delete undefined').click();
+await expect(page.locator('div').filter({ hasText: /^Delete$/ })).toBeVisible();
+await page.getByRole('button', { name: 'Delete' }).click();
+await page.getByRole('button').filter({ hasText: /^$/ }).click();
 
   });
 
