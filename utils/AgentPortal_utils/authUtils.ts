@@ -29,10 +29,17 @@ export async function approveSignInRequest(page: Page) {
   await page.getByRole('button', { name: 'No' }).click();
   logger.info('Sign-in request approved');
   
+  // await page.getByRole('combobox', { name: 'Organization', exact: true }).click();
+  // await page.getByRole('option', { name: 'Twilight Information' }).click();
+  // await page.getByRole('combobox', { name: 'Sub-Organization' }).click();
+  // await page.getByRole('option', { name: 'AppXperts Medical Group, LLC' }).click();
+  // await page.getByRole('combobox', { name: 'Process' }).click();
+  // await page.getByRole('option', { name: 'Provider Credentialing' }).click();
+ 
   await page.getByRole('combobox', { name: 'Organization', exact: true }).click();
-  await page.getByRole('option', { name: 'Twilight Information' }).click();
+    await page.getByRole('option', { name: 'Acme Technologies Pvt. Ltd.' }).click();
   await page.getByRole('combobox', { name: 'Sub-Organization' }).click();
-  await page.getByRole('option', { name: 'AppXperts Medical Group, LLC' }).click();
+  await page.getByRole('option', { name: 'MedCare Health Services' }).click();
   await page.getByRole('combobox', { name: 'Process' }).click();
   await page.getByRole('option', { name: 'Provider Credentialing' }).click();
 }

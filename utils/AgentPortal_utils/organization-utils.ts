@@ -144,3 +144,31 @@ export async function navigateAndAddSubOrganization(page: Page) {
   await expect(page.getByText('Sub Organizations', { exact: true })).toBeVisible();
   await page.getByRole('button', { name: 'Add New Sub Organizations' }).click();
 }
+
+export async function loginAndNavigateToProcessSettings(page: Page) {
+  logger.info('Logging in and navigating to Process Settings');
+  
+  await page.goto('https://devrcmgenie.asprcmsolutions.com/');
+  await page.getByRole('button', { name: 'Login with Microsoft' }).click();
+  await page.getByRole('textbox', { name: 'Enter your email, phone, or' }).fill('asprcmtesting1@twilightitsolutions.com');
+  await page.getByRole('button', { name: 'Next' }).click();
+  await page.locator('#i0118').fill('SmartWork@123');
+  await page.getByRole('button', { name: 'Sign in' }).click();
+  await page.getByRole('button', { name: 'No' }).click();
+  await page.getByRole('combobox', { name: 'Organization', exact: true }).click();
+  await page.getByRole('option', { name: 'Acme Technologies Pvt. Ltd.' }).click();
+  await page.getByRole('combobox', { name: 'Sub-Organization' }).click();
+  await page.getByRole('option', { name: 'MedCare Health Services' }).click();
+  await page.getByRole('combobox', { name: 'Process' }).click();
+  await page.getByRole('option', { name: 'Provider Credentialing' }).click();
+  await page.getByRole('combobox', { name: 'Process' }).nth(1).click();
+  await page.getByRole('option', { name: 'Operation' }).click();
+  await page.getByLabel('Organizations').getByText('Organizations').click();
+  await page.getByRole('row', { name: 'Sunrise Health Systems' }).getByRole('button').first().click();
+  await page.getByRole('link', { name: 'Sub Organization List' }).click();
+  await page.getByRole('cell', { name: 'Delete undefined' }).getByRole('button').first().click();
+  await expect(page.getByRole('link', { name: 'Process Settings' })).toBeVisible();
+  await page.getByRole('link', { name: 'Process Settings' }).click();
+}
+
+
