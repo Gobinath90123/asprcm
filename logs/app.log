@@ -1,0 +1,524 @@
+2025-08-07 11:25:59 [info]: Navigating to login page
+2025-08-07 11:26:01 [info]: Login page loaded successfully
+2025-08-07 11:26:01 [info]: Attempting to login with Microsoft account
+2025-08-07 11:26:04 [info]: Login attempt completed
+2025-08-07 11:26:04 [info]: Approving sign-in request
+2025-08-07 11:26:06 [info]: Sign-in request approved
+2025-08-07 11:26:11 [info]: Verifying Tickets module visibility
+2025-08-07 11:26:13 [info]: Tickets module verified successfully
+2025-08-07 11:26:24 [info]: Navigating to login page
+2025-08-07 11:26:26 [info]: Login page loaded successfully
+2025-08-07 11:26:26 [info]: Attempting to login with Microsoft account
+2025-08-07 11:26:29 [info]: Login attempt completed
+2025-08-07 11:26:29 [info]: Approving sign-in request
+2025-08-07 11:26:31 [info]: Sign-in request approved
+2025-08-07 11:26:35 [info]: Verifying Tickets module visibility
+2025-08-07 11:26:37 [info]: Tickets module verified successfully
+2025-08-07 11:37:34 [info]: Starting login with Microsoft account
+2025-08-07 11:37:34 [info]: Navigating to login page
+2025-08-07 11:37:35 [info]: Login page loaded successfully
+2025-08-07 11:37:35 [info]: Attempting to login with Microsoft account
+2025-08-07 11:37:39 [info]: Login attempt completed
+2025-08-07 11:37:39 [info]: Approving sign-in request
+2025-08-07 11:37:41 [info]: Sign-in request approved
+2025-08-07 11:37:46 [info]: Verifying Tickets module visibility
+2025-08-07 11:37:48 [info]: Tickets module verified successfully
+2025-08-07 11:37:48 [info]: Login with Microsoft account completed successfully
+2025-08-07 11:37:48 [info]: Navigating to Organizations section
+2025-08-07 11:37:51 [info]: Opening Add New Organization form
+2025-08-07 11:37:55 [info]: Filling basic organization info
+2025-08-07 11:37:56 [info]: Filling contact person: Jayakumar
+2025-08-07 11:43:54 [info]: Navigating to login page
+2025-08-07 11:43:55 [info]: Login page loaded successfully
+2025-08-07 11:43:55 [info]: Attempting to login with Microsoft account
+2025-08-07 11:43:59 [info]: Login attempt completed
+2025-08-07 11:43:59 [info]: Approving sign-in request
+2025-08-07 11:44:01 [info]: Sign-in request approved
+2025-08-07 11:44:06 [info]: Verifying Tickets module visibility
+2025-08-07 11:44:08 [info]: Tickets module verified successfully
+2025-08-07 11:51:04 [info]: Navigating to login page
+2025-08-07 11:51:06 [info]: Login page loaded successfully
+2025-08-07 11:51:06 [info]: Attempting to login with Microsoft account
+2025-08-07 11:51:10 [info]: Login attempt completed
+2025-08-07 11:51:10 [info]: Approving sign-in request
+2025-08-07 11:51:11 [info]: Sign-in request approved
+2025-08-07 11:51:16 [info]: Verifying Tickets module visibility
+2025-08-07 11:51:18 [info]: Tickets module verified successfully
+2025-08-08 10:22:54 [info]: Navigating to login page
+2025-08-08 10:22:55 [info]: Login page loaded successfully
+2025-08-08 10:22:55 [info]: Attempting to login with Microsoft account
+2025-08-08 10:22:59 [info]: Login attempt completed
+2025-08-08 10:22:59 [info]: Approving sign-in request
+2025-08-08 10:23:01 [info]: Sign-in request approved
+2025-08-08 10:23:07 [info]: Verifying Tickets module visibility
+2025-08-08 10:23:09 [info]: Tickets module verified successfully
+2025-08-11 10:29:09 [info]: Starting login with Microsoft account
+2025-08-11 10:29:09 [info]: Navigating to login page
+2025-08-11 10:29:11 [info]: Login page loaded successfully
+2025-08-11 10:29:11 [info]: Attempting to login with Microsoft account
+2025-08-11 10:29:17 [info]: Login attempt completed
+2025-08-11 10:29:17 [info]: Approving sign-in request
+2025-08-11 10:29:19 [info]: Sign-in request approved
+2025-08-11 10:39:32 [info]: Starting login with Microsoft account
+2025-08-11 10:39:32 [info]: Navigating to login page
+2025-08-11 10:39:33 [info]: Login page loaded successfully
+2025-08-11 10:39:33 [info]: Attempting to login with Microsoft account
+2025-08-11 10:39:37 [info]: Login attempt completed
+2025-08-11 10:39:37 [info]: Approving sign-in request
+2025-08-11 10:39:38 [info]: Sign-in request approved
+2025-08-11 10:39:43 [info]: Verifying Tickets module visibility
+2025-08-11 10:39:45 [info]: Tickets module verified successfully
+2025-08-11 10:39:45 [info]: Login with Microsoft account completed successfully
+2025-08-11 10:39:45 [info]: Navigating to Organizations section
+2025-08-11 10:39:48 [info]: Opening Add New Organization form
+2025-08-11 10:39:51 [info]: Filling basic organization info
+2025-08-11 10:39:52 [info]: Filling contact person: Jayakumar
+2025-08-11 10:49:07 [info]: Starting login with Microsoft account
+2025-08-11 10:49:07 [info]: Navigating to login page
+2025-08-11 10:49:09 [info]: Login page loaded successfully
+2025-08-11 10:49:09 [info]: Attempting to login with Microsoft account
+2025-08-11 10:49:15 [info]: Login attempt completed
+2025-08-11 10:49:15 [info]: Approving sign-in request
+2025-08-11 10:49:17 [info]: Sign-in request approved
+2025-08-11 10:49:24 [info]: Verifying Tickets module visibility
+2025-08-11 10:49:26 [info]: Tickets module verified successfully
+2025-08-11 10:49:26 [info]: Login with Microsoft account completed successfully
+2025-08-11 10:49:26 [info]: Navigating to Organizations section
+2025-08-11 10:49:30 [info]: Opening Add New Organization form
+2025-08-11 10:49:35 [info]: Filling basic organization info
+2025-08-11 10:49:36 [info]: Filling contact person: Jayakumar
+2025-08-11 10:49:37 [info]: Saving and closing organization
+2025-08-11 10:49:38 [info]: Verifying organization appears in the table: emma.hall8515@yopmail.com
+2025-08-11 10:49:42 [info]: Editing organization with email: emma.hall8515@yopmail.com
+2025-08-11 10:49:42 [info]: Filling basic organization info
+2025-08-11 10:49:46 [info]: Saving and closing organization
+2025-08-11 10:53:26 [info]: Starting login with Microsoft account
+2025-08-11 10:53:26 [info]: Navigating to login page
+2025-08-11 10:53:27 [info]: Login page loaded successfully
+2025-08-11 10:53:27 [info]: Attempting to login with Microsoft account
+2025-08-11 10:53:32 [info]: Login attempt completed
+2025-08-11 10:53:32 [info]: Approving sign-in request
+2025-08-11 10:53:34 [info]: Sign-in request approved
+2025-08-11 10:53:43 [info]: Verifying Tickets module visibility
+2025-08-11 10:53:45 [info]: Tickets module verified successfully
+2025-08-11 10:53:45 [info]: Login with Microsoft account completed successfully
+2025-08-11 10:53:45 [info]: Navigating to Organizations section
+2025-08-11 10:53:49 [info]: Opening Add New Organization form
+2025-08-11 10:53:53 [info]: Filling basic organization info
+2025-08-11 10:53:54 [info]: Filling contact person: Jayakumar
+2025-08-11 10:53:55 [info]: Saving and closing organization
+2025-08-11 10:53:55 [info]: Verifying organization appears in the table: sophia.martin5620@yopmail.com
+2025-08-11 11:00:38 [info]: Starting login with Microsoft account
+2025-08-11 11:00:38 [info]: Navigating to login page
+2025-08-11 11:00:39 [info]: Login page loaded successfully
+2025-08-11 11:00:39 [info]: Attempting to login with Microsoft account
+2025-08-11 11:00:45 [info]: Login attempt completed
+2025-08-11 11:00:45 [info]: Approving sign-in request
+2025-08-11 11:00:47 [info]: Sign-in request approved
+2025-08-11 11:00:53 [info]: Verifying Tickets module visibility
+2025-08-11 11:00:55 [info]: Tickets module verified successfully
+2025-08-11 11:00:55 [info]: Login with Microsoft account completed successfully
+2025-08-11 11:00:55 [info]: Navigating to Organizations section
+2025-08-11 11:00:57 [info]: Opening Add New Organization form
+2025-08-11 11:01:01 [info]: Filling basic organization info
+2025-08-11 11:01:02 [info]: Filling contact person: Jayakumar
+2025-08-11 11:01:03 [info]: Saving and closing organization
+2025-08-11 11:01:03 [info]: Verifying organization appears in the table: linda.williams8948@yopmail.com
+2025-08-11 11:04:22 [info]: Starting login with Microsoft account
+2025-08-11 11:04:22 [info]: Navigating to login page
+2025-08-11 11:04:23 [info]: Login page loaded successfully
+2025-08-11 11:04:23 [info]: Attempting to login with Microsoft account
+2025-08-11 11:04:27 [info]: Login attempt completed
+2025-08-11 11:04:27 [info]: Approving sign-in request
+2025-08-11 11:04:29 [info]: Sign-in request approved
+2025-08-11 11:04:34 [info]: Verifying Tickets module visibility
+2025-08-11 11:04:36 [info]: Tickets module verified successfully
+2025-08-11 11:04:36 [info]: Login with Microsoft account completed successfully
+2025-08-11 11:04:36 [info]: Navigating to Organizations section
+2025-08-11 11:04:38 [info]: Opening Add New Organization form
+2025-08-11 11:04:42 [info]: Filling basic organization info
+2025-08-11 11:04:43 [info]: Filling contact person: Jayakumar
+2025-08-11 11:04:44 [info]: Saving and closing organization
+2025-08-11 11:04:44 [info]: Verifying organization appears in the table: daniel.lee6939@yopmail.com
+2025-08-11 11:04:44 [info]: Editing organization with email: daniel.lee6939@yopmail.com
+2025-08-11 11:06:25 [info]: Starting login with Microsoft account
+2025-08-11 11:06:25 [info]: Navigating to login page
+2025-08-11 11:06:27 [info]: Login page loaded successfully
+2025-08-11 11:06:27 [info]: Attempting to login with Microsoft account
+2025-08-11 11:06:31 [info]: Login attempt completed
+2025-08-11 11:06:31 [info]: Approving sign-in request
+2025-08-11 11:06:33 [info]: Sign-in request approved
+2025-08-11 11:06:38 [info]: Verifying Tickets module visibility
+2025-08-11 11:06:40 [info]: Tickets module verified successfully
+2025-08-11 11:06:40 [info]: Login with Microsoft account completed successfully
+2025-08-11 11:06:40 [info]: Navigating to Organizations section
+2025-08-11 11:06:42 [info]: Opening Add New Organization form
+2025-08-11 11:06:47 [info]: Filling basic organization info
+2025-08-11 11:06:48 [info]: Filling contact person: Jayakumar
+2025-08-11 11:06:48 [info]: Saving and closing organization
+2025-08-11 11:06:49 [info]: Verifying organization appears in the table: david.brown9220@yopmail.com
+2025-08-11 11:06:49 [info]: Editing organization with email: david.brown9220@yopmail.com
+2025-08-11 11:12:51 [info]: Starting login with Microsoft account
+2025-08-11 11:12:51 [info]: Navigating to login page
+2025-08-11 11:12:52 [info]: Login page loaded successfully
+2025-08-11 11:12:52 [info]: Attempting to login with Microsoft account
+2025-08-11 11:12:56 [info]: Login attempt completed
+2025-08-11 11:12:56 [info]: Approving sign-in request
+2025-08-11 11:12:57 [info]: Sign-in request approved
+2025-08-11 11:13:02 [info]: Verifying Tickets module visibility
+2025-08-11 11:13:04 [info]: Tickets module verified successfully
+2025-08-11 11:13:04 [info]: Login with Microsoft account completed successfully
+2025-08-11 11:13:04 [info]: Navigating to Organizations section
+2025-08-11 11:13:06 [info]: Opening Add New Organization form
+2025-08-11 11:13:11 [info]: Filling basic organization info
+2025-08-11 11:13:11 [info]: Filling contact person: Jayakumar
+2025-08-11 11:13:12 [info]: Saving and closing organization
+2025-08-11 11:13:12 [info]: Verifying organization appears in the table: john.lee1289@yopmail.com
+2025-08-11 11:13:12 [info]: Editing organization with email: john.lee1289@yopmail.com
+2025-08-11 11:13:12 [info]: Filling basic organization info
+2025-08-11 11:13:13 [info]: Saving and closing organization
+2025-08-11 11:13:13 [info]: Deleting organization with email: john.lee1289@yopmail.com
+2025-08-11 11:18:07 [info]: Navigating to login page
+2025-08-11 11:18:08 [info]: Login page loaded successfully
+2025-08-11 11:18:08 [info]: Attempting to login with Microsoft account
+2025-08-11 11:18:13 [info]: Login attempt completed
+2025-08-11 11:18:13 [info]: Approving sign-in request
+2025-08-11 11:18:14 [info]: Sign-in request approved
+2025-08-11 11:18:22 [info]: Verifying Tickets module visibility
+2025-08-11 11:18:24 [info]: Tickets module verified successfully
+2025-08-11 11:42:29 [info]: Navigating to login page
+2025-08-11 11:42:31 [info]: Login page loaded successfully
+2025-08-11 11:42:31 [info]: Attempting to login with Microsoft account
+2025-08-11 11:42:34 [info]: Login attempt completed
+2025-08-11 11:42:34 [info]: Approving sign-in request
+2025-08-11 11:42:36 [info]: Sign-in request approved
+2025-08-11 11:42:44 [info]: Verifying Tickets module visibility
+2025-08-11 11:42:46 [info]: Tickets module verified successfully
+2025-08-11 11:43:26 [info]: Navigating to login page
+2025-08-11 11:43:28 [info]: Login page loaded successfully
+2025-08-11 11:43:28 [info]: Attempting to login with Microsoft account
+2025-08-11 11:43:32 [info]: Login attempt completed
+2025-08-11 11:43:32 [info]: Approving sign-in request
+2025-08-11 11:43:33 [info]: Sign-in request approved
+2025-08-11 11:43:39 [info]: Verifying Tickets module visibility
+2025-08-11 11:43:41 [info]: Tickets module verified successfully
+2025-08-11 11:58:09 [info]: Navigating to login page
+2025-08-11 11:58:10 [info]: Login page loaded successfully
+2025-08-11 11:58:10 [info]: Attempting to login with Microsoft account
+2025-08-11 11:58:14 [info]: Login attempt completed
+2025-08-11 11:58:14 [info]: Approving sign-in request
+2025-08-11 11:58:16 [info]: Sign-in request approved
+2025-08-11 11:58:25 [info]: Verifying Tickets module visibility
+2025-08-11 11:58:28 [info]: Tickets module verified successfully
+2025-08-11 12:00:51 [info]: Navigating to login page
+2025-08-11 12:00:52 [info]: Login page loaded successfully
+2025-08-11 12:00:52 [info]: Attempting to login with Microsoft account
+2025-08-11 12:00:57 [info]: Login attempt completed
+2025-08-11 12:00:57 [info]: Approving sign-in request
+2025-08-11 12:00:58 [info]: Sign-in request approved
+2025-08-11 12:01:03 [info]: Verifying Tickets module visibility
+2025-08-11 12:01:05 [info]: Tickets module verified successfully
+2025-08-11 12:03:44 [info]: Navigating to login page
+2025-08-11 12:03:46 [info]: Login page loaded successfully
+2025-08-11 12:03:46 [info]: Attempting to login with Microsoft account
+2025-08-11 12:03:50 [info]: Login attempt completed
+2025-08-11 12:03:50 [info]: Approving sign-in request
+2025-08-11 12:03:51 [info]: Sign-in request approved
+2025-08-11 12:04:02 [info]: Verifying Tickets module visibility
+2025-08-11 12:04:04 [info]: Tickets module verified successfully
+2025-08-11 12:33:01 [info]: Navigating to login page
+2025-08-11 12:33:02 [info]: Login page loaded successfully
+2025-08-11 12:33:02 [info]: Attempting to login with Microsoft account
+2025-08-11 12:33:06 [info]: Login attempt completed
+2025-08-11 12:33:06 [info]: Approving sign-in request
+2025-08-11 12:33:08 [info]: Sign-in request approved
+2025-08-11 12:33:13 [info]: Verifying Tickets module visibility
+2025-08-11 12:33:15 [info]: Tickets module verified successfully
+2025-08-11 14:26:44 [info]: Starting login with Microsoft account
+2025-08-11 14:26:44 [info]: Navigating to login page
+2025-08-11 14:26:45 [info]: Login page loaded successfully
+2025-08-11 14:26:45 [info]: Attempting to login with Microsoft account
+2025-08-11 14:26:48 [info]: Login attempt completed
+2025-08-11 14:26:48 [info]: Approving sign-in request
+2025-08-11 14:26:50 [info]: Sign-in request approved
+2025-08-11 14:26:55 [info]: Verifying Tickets module visibility
+2025-08-11 14:26:57 [info]: Tickets module verified successfully
+2025-08-11 14:26:57 [info]: Login with Microsoft account completed successfully
+2025-08-11 14:26:57 [info]: Navigating to Organizations section
+2025-08-11 14:26:59 [info]: Opening Add New Organization form
+2025-08-11 14:33:37 [info]: Starting login with Microsoft account
+2025-08-11 14:33:37 [info]: Navigating to login page
+2025-08-11 14:33:39 [info]: Login page loaded successfully
+2025-08-11 14:33:39 [info]: Attempting to login with Microsoft account
+2025-08-11 14:33:48 [info]: Login attempt completed
+2025-08-11 14:33:48 [info]: Approving sign-in request
+2025-08-11 14:33:50 [info]: Sign-in request approved
+2025-08-11 14:33:55 [info]: Verifying Tickets module visibility
+2025-08-11 14:33:57 [info]: Tickets module verified successfully
+2025-08-11 14:33:57 [info]: Login with Microsoft account completed successfully
+2025-08-11 14:33:57 [info]: Navigating to Organizations section
+2025-08-11 14:33:59 [info]: Opening Add New Organization form
+2025-08-11 14:45:32 [info]: Starting login with Microsoft account
+2025-08-11 14:45:32 [info]: Navigating to login page
+2025-08-11 14:45:33 [info]: Login page loaded successfully
+2025-08-11 14:45:33 [info]: Attempting to login with Microsoft account
+2025-08-11 14:45:38 [info]: Login attempt completed
+2025-08-11 14:45:38 [info]: Approving sign-in request
+2025-08-11 14:45:40 [info]: Sign-in request approved
+2025-08-11 14:45:44 [info]: Verifying Tickets module visibility
+2025-08-11 14:45:47 [info]: Tickets module verified successfully
+2025-08-11 14:45:47 [info]: Login with Microsoft account completed successfully
+2025-08-11 14:53:43 [info]: Starting login with Microsoft account
+2025-08-11 14:53:43 [info]: Navigating to login page
+2025-08-11 14:53:44 [info]: Login page loaded successfully
+2025-08-11 14:53:44 [info]: Attempting to login with Microsoft account
+2025-08-11 14:53:48 [info]: Login attempt completed
+2025-08-11 14:53:48 [info]: Approving sign-in request
+2025-08-11 14:53:50 [info]: Sign-in request approved
+2025-08-11 14:53:55 [info]: Verifying Tickets module visibility
+2025-08-11 14:53:57 [info]: Tickets module verified successfully
+2025-08-11 14:53:57 [info]: Login with Microsoft account completed successfully
+2025-08-11 14:56:34 [info]: Starting login with Microsoft account
+2025-08-11 14:56:34 [info]: Navigating to login page
+2025-08-11 14:56:35 [info]: Login page loaded successfully
+2025-08-11 14:56:35 [info]: Attempting to login with Microsoft account
+2025-08-11 14:56:39 [info]: Login attempt completed
+2025-08-11 14:56:39 [info]: Approving sign-in request
+2025-08-11 14:56:41 [info]: Sign-in request approved
+2025-08-11 14:56:46 [info]: Verifying Tickets module visibility
+2025-08-11 14:56:48 [info]: Tickets module verified successfully
+2025-08-11 14:56:48 [info]: Login with Microsoft account completed successfully
+2025-08-11 15:06:58 [info]: Starting login with Microsoft account
+2025-08-11 15:06:58 [info]: Navigating to login page
+2025-08-11 15:06:59 [info]: Login page loaded successfully
+2025-08-11 15:06:59 [info]: Attempting to login with Microsoft account
+2025-08-11 15:07:03 [info]: Login attempt completed
+2025-08-11 15:07:03 [info]: Approving sign-in request
+2025-08-11 15:07:05 [info]: Sign-in request approved
+2025-08-11 15:07:10 [info]: Verifying Tickets module visibility
+2025-08-11 15:07:12 [info]: Tickets module verified successfully
+2025-08-11 15:07:12 [info]: Login with Microsoft account completed successfully
+2025-08-11 15:27:52 [info]: Starting login with Microsoft account
+2025-08-11 15:27:52 [info]: Navigating to login page
+2025-08-11 15:27:54 [info]: Login page loaded successfully
+2025-08-11 15:27:54 [info]: Attempting to login with Microsoft account
+2025-08-11 15:27:57 [info]: Login attempt completed
+2025-08-11 15:27:57 [info]: Approving sign-in request
+2025-08-11 15:27:59 [info]: Sign-in request approved
+2025-08-11 15:28:04 [info]: Verifying Tickets module visibility
+2025-08-11 15:28:06 [info]: Tickets module verified successfully
+2025-08-11 15:28:06 [info]: Login with Microsoft account completed successfully
+2025-08-11 15:36:50 [info]: Starting login with Microsoft account
+2025-08-11 15:36:50 [info]: Navigating to login page
+2025-08-11 15:36:51 [info]: Login page loaded successfully
+2025-08-11 15:36:51 [info]: Attempting to login with Microsoft account
+2025-08-11 15:36:55 [info]: Login attempt completed
+2025-08-11 15:36:55 [info]: Approving sign-in request
+2025-08-11 15:36:57 [info]: Sign-in request approved
+2025-08-11 15:37:02 [info]: Verifying Tickets module visibility
+2025-08-11 15:37:05 [info]: Tickets module verified successfully
+2025-08-11 15:37:05 [info]: Login with Microsoft account completed successfully
+2025-08-11 15:39:10 [info]: Starting login with Microsoft account
+2025-08-11 15:39:10 [info]: Navigating to login page
+2025-08-11 15:39:11 [info]: Login page loaded successfully
+2025-08-11 15:39:11 [info]: Attempting to login with Microsoft account
+2025-08-11 15:39:16 [info]: Login attempt completed
+2025-08-11 15:39:16 [info]: Approving sign-in request
+2025-08-11 15:39:19 [info]: Sign-in request approved
+2025-08-11 15:39:24 [info]: Verifying Tickets module visibility
+2025-08-11 15:39:26 [info]: Tickets module verified successfully
+2025-08-11 15:39:26 [info]: Login with Microsoft account completed successfully
+2025-08-11 15:47:11 [info]: Starting login with Microsoft account
+2025-08-11 15:47:11 [info]: Navigating to login page
+2025-08-11 15:47:12 [info]: Login page loaded successfully
+2025-08-11 15:47:12 [info]: Attempting to login with Microsoft account
+2025-08-11 15:47:15 [info]: Login attempt completed
+2025-08-11 15:47:15 [info]: Approving sign-in request
+2025-08-11 15:47:17 [info]: Sign-in request approved
+2025-08-11 15:47:22 [info]: Verifying Tickets module visibility
+2025-08-11 15:47:24 [info]: Tickets module verified successfully
+2025-08-11 15:47:24 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:04:05 [info]: Starting login with Microsoft account
+2025-08-11 16:04:05 [info]: Navigating to login page
+2025-08-11 16:04:15 [info]: Starting login with Microsoft account
+2025-08-11 16:04:15 [info]: Navigating to login page
+2025-08-11 16:04:17 [info]: Login page loaded successfully
+2025-08-11 16:04:17 [info]: Attempting to login with Microsoft account
+2025-08-11 16:04:21 [info]: Login attempt completed
+2025-08-11 16:04:21 [info]: Approving sign-in request
+2025-08-11 16:04:23 [info]: Sign-in request approved
+2025-08-11 16:04:28 [info]: Verifying Tickets module visibility
+2025-08-11 16:04:30 [info]: Tickets module verified successfully
+2025-08-11 16:04:30 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:07:01 [info]: Starting login with Microsoft account
+2025-08-11 16:07:01 [info]: Navigating to login page
+2025-08-11 16:07:02 [info]: Login page loaded successfully
+2025-08-11 16:07:02 [info]: Attempting to login with Microsoft account
+2025-08-11 16:07:06 [info]: Login attempt completed
+2025-08-11 16:07:06 [info]: Approving sign-in request
+2025-08-11 16:07:08 [info]: Sign-in request approved
+2025-08-11 16:07:12 [info]: Verifying Tickets module visibility
+2025-08-11 16:07:14 [info]: Tickets module verified successfully
+2025-08-11 16:07:14 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:11:16 [info]: Starting login with Microsoft account
+2025-08-11 16:11:16 [info]: Navigating to login page
+2025-08-11 16:11:18 [info]: Login page loaded successfully
+2025-08-11 16:11:18 [info]: Attempting to login with Microsoft account
+2025-08-11 16:11:21 [info]: Login attempt completed
+2025-08-11 16:11:21 [info]: Approving sign-in request
+2025-08-11 16:11:23 [info]: Sign-in request approved
+2025-08-11 16:11:28 [info]: Verifying Tickets module visibility
+2025-08-11 16:11:30 [info]: Tickets module verified successfully
+2025-08-11 16:11:30 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:30:09 [info]: Starting login with Microsoft account
+2025-08-11 16:30:09 [info]: Navigating to login page
+2025-08-11 16:30:10 [info]: Login page loaded successfully
+2025-08-11 16:30:10 [info]: Attempting to login with Microsoft account
+2025-08-11 16:30:15 [info]: Login attempt completed
+2025-08-11 16:30:15 [info]: Approving sign-in request
+2025-08-11 16:30:17 [info]: Sign-in request approved
+2025-08-11 16:30:22 [info]: Verifying Tickets module visibility
+2025-08-11 16:30:24 [info]: Tickets module verified successfully
+2025-08-11 16:30:24 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:32:36 [info]: Starting login with Microsoft account
+2025-08-11 16:32:36 [info]: Navigating to login page
+2025-08-11 16:32:38 [info]: Login page loaded successfully
+2025-08-11 16:32:38 [info]: Attempting to login with Microsoft account
+2025-08-11 16:32:42 [info]: Login attempt completed
+2025-08-11 16:32:42 [info]: Approving sign-in request
+2025-08-11 16:32:44 [info]: Sign-in request approved
+2025-08-11 16:32:49 [info]: Verifying Tickets module visibility
+2025-08-11 16:32:52 [info]: Tickets module verified successfully
+2025-08-11 16:32:52 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:36:01 [info]: Starting login with Microsoft account
+2025-08-11 16:36:01 [info]: Navigating to login page
+2025-08-11 16:36:03 [info]: Login page loaded successfully
+2025-08-11 16:36:03 [info]: Attempting to login with Microsoft account
+2025-08-11 16:36:07 [info]: Login attempt completed
+2025-08-11 16:36:07 [info]: Approving sign-in request
+2025-08-11 16:36:09 [info]: Sign-in request approved
+2025-08-11 16:36:14 [info]: Verifying Tickets module visibility
+2025-08-11 16:36:16 [info]: Tickets module verified successfully
+2025-08-11 16:36:16 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:40:46 [info]: Starting login with Microsoft account
+2025-08-11 16:40:46 [info]: Navigating to login page
+2025-08-11 16:40:47 [info]: Login page loaded successfully
+2025-08-11 16:40:47 [info]: Attempting to login with Microsoft account
+2025-08-11 16:40:52 [info]: Login attempt completed
+2025-08-11 16:40:52 [info]: Approving sign-in request
+2025-08-11 16:40:53 [info]: Sign-in request approved
+2025-08-11 16:40:59 [info]: Verifying Tickets module visibility
+2025-08-11 16:41:01 [info]: Tickets module verified successfully
+2025-08-11 16:41:01 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:42:35 [info]: Starting login with Microsoft account
+2025-08-11 16:42:35 [info]: Navigating to login page
+2025-08-11 16:42:37 [info]: Login page loaded successfully
+2025-08-11 16:42:37 [info]: Attempting to login with Microsoft account
+2025-08-11 16:42:41 [info]: Login attempt completed
+2025-08-11 16:42:41 [info]: Approving sign-in request
+2025-08-11 16:42:43 [info]: Sign-in request approved
+2025-08-11 16:42:48 [info]: Verifying Tickets module visibility
+2025-08-11 16:42:50 [info]: Tickets module verified successfully
+2025-08-11 16:42:50 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:44:32 [info]: Starting login with Microsoft account
+2025-08-11 16:44:32 [info]: Navigating to login page
+2025-08-11 16:44:33 [info]: Login page loaded successfully
+2025-08-11 16:44:33 [info]: Attempting to login with Microsoft account
+2025-08-11 16:44:38 [info]: Login attempt completed
+2025-08-11 16:44:38 [info]: Approving sign-in request
+2025-08-11 16:44:39 [info]: Sign-in request approved
+2025-08-11 16:44:45 [info]: Verifying Tickets module visibility
+2025-08-11 16:44:47 [info]: Tickets module verified successfully
+2025-08-11 16:44:47 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:45:48 [info]: Starting login with Microsoft account
+2025-08-11 16:45:48 [info]: Navigating to login page
+2025-08-11 16:45:49 [info]: Login page loaded successfully
+2025-08-11 16:45:49 [info]: Attempting to login with Microsoft account
+2025-08-11 16:45:53 [info]: Login attempt completed
+2025-08-11 16:45:53 [info]: Approving sign-in request
+2025-08-11 16:45:55 [info]: Sign-in request approved
+2025-08-11 16:46:00 [info]: Verifying Tickets module visibility
+2025-08-11 16:46:02 [info]: Tickets module verified successfully
+2025-08-11 16:46:02 [info]: Login with Microsoft account completed successfully
+2025-08-11 16:56:44 [info]: Starting login with Microsoft account
+2025-08-11 16:56:44 [info]: Navigating to login page
+2025-08-11 16:56:45 [info]: Login page loaded successfully
+2025-08-11 16:56:45 [info]: Attempting to login with Microsoft account
+2025-08-11 16:56:49 [info]: Login attempt completed
+2025-08-11 16:56:49 [info]: Approving sign-in request
+2025-08-11 16:56:51 [info]: Sign-in request approved
+2025-08-11 16:56:56 [info]: Verifying Tickets module visibility
+2025-08-11 16:56:58 [info]: Tickets module verified successfully
+2025-08-11 16:56:58 [info]: Login with Microsoft account completed successfully
+2025-08-13 10:33:52 [info]: Starting login with Microsoft account
+2025-08-13 10:33:52 [info]: Navigating to login page
+2025-08-13 10:33:53 [info]: Login page loaded successfully
+2025-08-13 10:33:53 [info]: Attempting to login with Microsoft account
+2025-08-13 10:33:58 [info]: Login attempt completed
+2025-08-13 10:33:58 [info]: Approving sign-in request
+2025-08-13 10:34:00 [info]: Sign-in request approved
+2025-08-13 10:34:05 [info]: Verifying Tickets module visibility
+2025-08-13 10:34:07 [info]: Tickets module verified successfully
+2025-08-13 10:34:07 [info]: Login with Microsoft account completed successfully
+2025-08-13 10:41:04 [info]: Starting login with Microsoft account
+2025-08-13 10:41:04 [info]: Navigating to login page
+2025-08-13 10:41:05 [info]: Login page loaded successfully
+2025-08-13 10:41:05 [info]: Attempting to login with Microsoft account
+2025-08-13 10:41:09 [info]: Login attempt completed
+2025-08-13 10:41:09 [info]: Approving sign-in request
+2025-08-13 10:41:10 [info]: Sign-in request approved
+2025-08-13 10:41:16 [info]: Verifying Tickets module visibility
+2025-08-13 10:41:18 [info]: Tickets module verified successfully
+2025-08-13 10:41:18 [info]: Login with Microsoft account completed successfully
+2025-08-13 11:02:21 [info]: Starting login with Microsoft account
+2025-08-13 11:02:21 [info]: Navigating to login page
+2025-08-13 11:02:23 [info]: Login page loaded successfully
+2025-08-13 11:02:23 [info]: Attempting to login with Microsoft account
+2025-08-13 11:02:27 [info]: Login attempt completed
+2025-08-13 11:02:27 [info]: Approving sign-in request
+2025-08-13 11:02:29 [info]: Sign-in request approved
+2025-08-13 11:02:34 [info]: Verifying Tickets module visibility
+2025-08-13 11:02:36 [info]: Tickets module verified successfully
+2025-08-13 11:02:36 [info]: Login with Microsoft account completed successfully
+2025-08-13 11:02:36 [info]: Approving sign-in request
+2025-08-13 11:03:34 [info]: Starting login with Microsoft account
+2025-08-13 11:03:34 [info]: Navigating to login page
+2025-08-13 11:03:36 [info]: Login page loaded successfully
+2025-08-13 11:03:36 [info]: Attempting to login with Microsoft account
+2025-08-13 11:03:40 [info]: Login attempt completed
+2025-08-13 11:03:40 [info]: Approving sign-in request
+2025-08-13 11:03:42 [info]: Sign-in request approved
+2025-08-13 11:03:48 [info]: Verifying Tickets module visibility
+2025-08-13 11:03:50 [info]: Tickets module verified successfully
+2025-08-13 11:03:50 [info]: Login with Microsoft account completed successfully
+2025-08-13 11:03:50 [info]: Approving sign-in request
+2025-08-13 11:05:45 [info]: Starting login with Microsoft account
+2025-08-13 11:05:45 [info]: Navigating to login page
+2025-08-13 11:05:47 [info]: Login page loaded successfully
+2025-08-13 11:05:47 [info]: Attempting to login with Microsoft account
+2025-08-13 11:05:52 [info]: Login attempt completed
+2025-08-13 11:05:52 [info]: Approving sign-in request
+2025-08-13 11:05:54 [info]: Sign-in request approved
+2025-08-13 11:05:59 [info]: Verifying Tickets module visibility
+2025-08-13 11:06:01 [info]: Tickets module verified successfully
+2025-08-13 11:06:01 [info]: Login with Microsoft account completed successfully
+2025-08-13 11:32:39 [info]: Starting login with Microsoft account
+2025-08-13 11:32:39 [info]: Navigating to login page
+2025-08-13 11:32:40 [info]: Login page loaded successfully
+2025-08-13 11:32:40 [info]: Attempting to login with Microsoft account
+2025-08-13 11:32:45 [info]: Login attempt completed
+2025-08-13 11:32:45 [info]: Approving sign-in request
+2025-08-13 11:32:46 [info]: Sign-in request approved
+2025-08-13 11:32:51 [info]: Verifying Tickets module visibility
+2025-08-13 11:32:54 [info]: Tickets module verified successfully
+2025-08-13 11:32:54 [info]: Login with Microsoft account completed successfully
+2025-08-13 11:39:38 [info]: Starting login with Microsoft account
+2025-08-13 11:39:38 [info]: Navigating to login page
+2025-08-13 11:39:39 [info]: Login page loaded successfully
+2025-08-13 11:39:39 [info]: Attempting to login with Microsoft account
+2025-08-13 11:39:44 [info]: Login attempt completed
+2025-08-13 11:39:44 [info]: Approving sign-in request
+2025-08-13 11:39:46 [info]: Sign-in request approved
+2025-08-13 11:39:54 [info]: Verifying Tickets module visibility
+2025-08-13 11:39:57 [info]: Tickets module verified successfully
+2025-08-13 11:39:57 [info]: Login with Microsoft account completed successfully
