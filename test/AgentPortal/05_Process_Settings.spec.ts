@@ -22,6 +22,7 @@ test('01_Process Settings positive flow add', async ({ page }) => {
   await page.getByRole('cell', { name: 'Open', exact: true }).getByPlaceholder('Select User').click();
   await page.getByRole('option', { name: 'Agent (E-03)' }).click();
   await page.getByRole('cell').filter({ hasText: /^$/ }).getByRole('button').first().click();
+  await page.waitForTimeout(3000);
   await expect(page.getByText('Created successfully.')).toBeVisible();
   await expect(page.getByRole('cell', { name: 'Manager (E-01)' })).toBeVisible();
   await expect(page.getByRole('cell', { name: 'Supervisor (E-02)' })).toBeVisible();
@@ -122,7 +123,6 @@ await page.locator('.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorPr
 await expect(page.getByText('User is already assigned in')).toBeVisible();
 await page.getByRole('row', { name: 'Manager (E-01) Open' }).getByRole('button').nth(4).click();
 })
-
 
 test('08_Verify logged in person should not delete his/her own Role in Process Settings', async ({ page }) => {
 
