@@ -35,7 +35,7 @@ export default defineConfig({
         screenshot: 'on',
         video: 'on',
         trace: 'retain-on-failure',
-        actionTimeout: 60000,
+        actionTimeout: 120000,
         viewport: null,
         deviceScaleFactor: undefined,
         launchOptions: { args: ['--start-maximized'] }

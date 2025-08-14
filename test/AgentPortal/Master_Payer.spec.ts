@@ -13,22 +13,26 @@ test.describe('Payor Tests', () => {
 
 await page.getByLabel('Masters').getByText('Masters').click();
   await expect(page.getByText('Payer Add New Payer')).toBeVisible();
-await page.waitForTimeout(4000);
+    await expect(page.getByText('Payer Name↑')).toBeVisible();
+    await page.waitForTimeout(3000);
   await page.getByRole('button', { name: 'Add New Payer' }).click();
-  await page.getByRole('textbox', { name: 'Payer Name' }).click();
   await page.getByRole('textbox', { name: 'Payer Name' }).fill('Max life Insurance');
-  await page.getByRole('textbox', { name: 'Payer Type' }).click();
   await page.getByRole('textbox', { name: 'Payer Type' }).fill('Insurance');
   await page.getByText('Select Claim Submission Method').click();
   await page.getByRole('option', { name: 'EDI A' }).click();
   await page.locator('div').filter({ hasText: /^LocationAdd Row$/ }).getByRole('button').click();
 
   await expect(page.getByRole('heading', { name: 'Location' })).toBeVisible();
-  await page.getByRole('textbox', { name: 'Enter Payer Name' }).click();
-  await page.getByRole('textbox', { name: 'Enter Payer Name' }).fill('Cigna Health');
+  await page.waitForTimeout(2000);
+  await page.getByRole('textbox', { name: 'Enter Payer\'s Name' }).click();
+  await page.getByRole('textbox', { name: 'Enter Payer\'s Name' }).fill('Cigna Health');
 
   await page.getByRole('combobox', { name: 'Select State' }).click();
   await page.getByRole('option', { name: 'Texas' }).click();
+  await page.goto('https://login.microsoftonline.com/6a8779c7-65df-4db1-b6a9-7135384fdf1c/oauth2/v2.0/logout?post_logout_redirect_uri=https%3A%2F%2Fdevrcmgenie.asprcmsolutions.com%2Fmasters%2Fpayer%2Fcreate%2F&client-request-id=019882be-8a12-73e0-b177-61fdd5733e04');
+  await page.locator('.win-scroll').click();
+  await page.locator('html').click();
+  await page.locator('html').click();
   await page.getByRole('textbox', { name: 'Enter Website' }).click();
   await page.getByRole('textbox', { name: 'Enter Website' }).fill('https://www.cigna.com');
   await page.getByRole('textbox', { name: 'Enter Contact Number' }).fill('(800) 997-1654');
